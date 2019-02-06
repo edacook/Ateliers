@@ -45,5 +45,5 @@ En 2 heure, organiser une discussion entre porteurs (??) du projet afin de carto
 
 ## Sources
 <a id="note">
-* **1** [OpenEdition](https://journals.openedition.org/developpementdurable/8694), sous licence licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+* **1** [OpenEdition](https://journals.openedition.org/developpementdurable/8694), sous licence licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International
 </a>
