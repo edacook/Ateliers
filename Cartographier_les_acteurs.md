@@ -11,6 +11,8 @@ image_url :
 
 Atelier proposé par la chaire UNESCO au cours des assises territoriales agro-alimentation inspiré du travail de Godet, la méthode MACTOR.
 
+![Cercle excentrique](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj6lYO7q6fgAhWmy4UKHUtRA7QQjRx6BAgBEAU&url=https%3A%2F%2Fjournals.openedition.org%2Fdeveloppementdurable%2F8694&psig=AOvVaw0InZ7uYbww03kYBCeA5cgt&ust=1549550453101957)
+
 ## Le but
 
 ---
