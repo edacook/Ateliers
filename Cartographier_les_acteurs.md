@@ -27,7 +27,7 @@ En 2 heure, organiser une discussion entre porteurs (??) du projet afin de carto
 
 - Trois couleurs de post-it, vert pour ceux qui ont un avis positif sur le projet, jaune pour un avis neutre, rouge pour un avis négatif
 
-- Deux axes, l'intérêt (tout à gagner à tout à perdre) et l'impact (impact fort à impact faible)
+- Un diagramme. Deux axes, l'intérêt (tout à gagner à tout à perdre) et l'impact (impact fort à impact faible)
 
 ## Etapes
 
