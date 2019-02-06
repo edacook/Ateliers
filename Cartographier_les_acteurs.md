@@ -11,7 +11,7 @@ image_url :
 
 Atelier proposé par la chaire UNESCO au cours des assises territoriales agro-alimentation inspiré du travail de Godet, la méthode MACTOR.
 
-![MACTOR](https://journals.openedition.org/developpementdurable/docannexe/image/8694/img-5.png)
+![MACTOR](https://journals.openedition.org/developpementdurable/docannexe/image/8694/img-5.png)**[1](#note)**
 
 ## Le but
 
@@ -42,3 +42,8 @@ En 2 heure, organiser une discussion entre porteurs (??) du projet afin de carto
 - Déplacer les acteurs sur l'axe d'impact
 
 - Discussion sur la façon dont on peut s'appuyer sur nos aliés où neutraliser/marginaliser les "énemies".
+
+## Sources
+<a id="note">
+* **1** [OpenEdition](https://journals.openedition.org/developpementdurable/8694), sous licence licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+</a>
