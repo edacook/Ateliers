@@ -17,7 +17,7 @@ Atelier proposé par la chaire UNESCO au cours des assises territoriales agro-al
 
 ---
 
-En 2 heure, organiser une discussion entre porteurs (??) du projet afin de cartographier l'ensembles des acteurs impactés, intéressés par le projet. Idnetifier aliés et énnemis et comprendre quelle influence ils peuvent avoir sur le projet.
+En 2 heure, organiser une discussion entre porteurs (??) du projet afin de cartographier l'ensembles des acteurs impactés, intéressés par le projet. Identifier alliés et ennemis et comprendre quelle influence ils peuvent avoir sur le projet.
 
 ## Artéfacts
 
@@ -27,7 +27,7 @@ En 2 heure, organiser une discussion entre porteurs (??) du projet afin de carto
 
 - Trois couleurs de post-it, vert pour ceux qui ont un avis positif sur le projet, jaune pour un avis neutre, rouge pour un avis négatif
 
-- Deux axes, l'intéret (tout à gagner à tout à perdre) et l'impact (impact fort à impact faible)
+- Deux axes, l'intérêt (tout à gagner à tout à perdre) et l'impact (impact fort à impact faible)
 
 ## Etapes
 
@@ -35,13 +35,13 @@ En 2 heure, organiser une discussion entre porteurs (??) du projet afin de carto
 
 - Lister les acteurs
 
-- positionner sur l'axe d'intéret
+- positionner sur l'axe d'intérêt
 
-- Recalifier et mieux spécifier les acteurs au travers de la conversation
+- Re-qualifier et mieux spécifier les acteurs au travers de la conversation
 
 - Déplacer les acteurs sur l'axe d'impact
 
-- Discussion sur la façon dont on peut s'appuyer sur nos aliés où neutraliser/marginaliser les "énemies".
+- Discussion sur la façon dont on peut s'appuyer sur nos alliés où neutraliser/marginaliser les "ennemies".
 
 ## Sources
 <a id="note">
